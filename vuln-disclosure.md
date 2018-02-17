@@ -6,7 +6,7 @@ A critical security flaw has been found in passwordsquirrel's password managemen
 
 The url: /getpw.php is vulnerable to SQL injection.
 
-url parameters are:
+get url parameters are:
 ```
 username
 password
